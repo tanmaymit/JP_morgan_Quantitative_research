@@ -17,3 +17,10 @@ Predictive Modeling:
 
 Develop and implement predictive models using tools like Python.
 The goal is to enhance the accuracy of the probability estimations by using advanced algorithms.
+
+Learning Outcomes:
+Understanding of Quantitative Research: Participants gain insight into how quantitative research is applied in financial contexts, particularly in risk assessment and predictive modeling.
+Technical Skills Enhancement: The program provides hands-on experience with data analysis tools and programming, helping to develop skills in Python, statistical analysis, and dynamic programming.
+Application of Financial Concepts: Participants learn to apply financial theories and quantitative methods to real-world problems, such as estimating loan default risks.
+Communication of Complex Data: The experience emphasizes the importance of effectively communicating complex data-driven insights to stakeholders.
+This program simulates a real-world experience at JPMorgan Chase, providing valuable exposure to the tasks and responsibilities of a quantitative researcher in the financial industry.
